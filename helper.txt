@@ -1,0 +1,3 @@
+source /home/dse/Code/env_common/bin/activate
+
+python3 /home/dse/Code/FMD_clean/c3.py --data-dir /home/dse/Code/FMD_clean/dataset/MNIST --num-steps 2
