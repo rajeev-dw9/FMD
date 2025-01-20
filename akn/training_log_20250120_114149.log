@@ -1,0 +1,18 @@
+2025-01-20 11:41:49,521 - INFO - Starting training process...
+2025-01-20 11:41:53,812 - INFO - Number of trainable parameters: 85799425
+2025-01-20 11:49:12,250 - INFO - [Epoch 1/5] Loss: 0.4481, Accuracy: 0.78%
+2025-01-20 11:49:13,014 - INFO - Model saved to models/model_epoch_1.pth
+2025-01-20 11:49:13,604 - INFO - [Validation] Accuracy: 0.88%
+2025-01-20 11:55:15,602 - INFO - [Epoch 2/5] Loss: 0.4023, Accuracy: 0.81%
+2025-01-20 11:55:16,479 - INFO - Model saved to models/model_epoch_2.pth
+2025-01-20 11:55:17,097 - INFO - [Validation] Accuracy: 0.86%
+2025-01-20 12:01:28,460 - INFO - [Epoch 3/5] Loss: 0.3909, Accuracy: 0.82%
+2025-01-20 12:01:29,201 - INFO - Model saved to models/model_epoch_3.pth
+2025-01-20 12:01:29,752 - INFO - [Validation] Accuracy: 0.86%
+2025-01-20 12:07:30,790 - INFO - [Epoch 4/5] Loss: 0.3786, Accuracy: 0.83%
+2025-01-20 12:07:31,530 - INFO - Model saved to models/model_epoch_4.pth
+2025-01-20 12:07:32,118 - INFO - [Validation] Accuracy: 0.86%
+2025-01-20 12:13:31,424 - INFO - [Epoch 5/5] Loss: 0.3617, Accuracy: 0.84%
+2025-01-20 12:13:32,164 - INFO - Model saved to models/model_epoch_5.pth
+2025-01-20 12:13:32,705 - INFO - [Validation] Accuracy: 0.84%
+2025-01-20 12:13:33,162 - INFO - Training complete.

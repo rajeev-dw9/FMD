@@ -4,4 +4,4 @@ python3 /DATA_RRD/FMD/cmnist_removal.py --data-dir /DATA_RRD/FMD/dataset/MNIST -
 
 https://github.com/lambert-x/medical_mae?tab=readme-ov-file
 
-python3 /DATA_RRD/FMD/ram_ji.py --data-dir /DATA_RRD/FMD/dataset/data/ --num-steps 2
+python3 /home/vinod/RRD/RRD/FMD/ram_ji.py --data-dir /home/vinod/RRD/RRD/DNE/data --num-steps 2
